@@ -1,0 +1,10 @@
+python-telegram-bot==21.6
+fredapi==0.5.2
+requests==2.31.0
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.13.0
+matplotlib==3.9.0
+python-dotenv==1.0.1
+beautifulsoup4==4.12.3
+lxml==5.2.2
